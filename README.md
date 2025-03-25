@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @warpalatino
-- 👀 I am building an AI fuzzy expert system interpreting financial markets and investing by incessantly adjusting its asset allocation to market conditions
+- 👀 I have built an open AI expert system interpreting financial markets, thus understanding how to move the asset allocation of my investment portfolio to adapt to market conditions
 - 🌱 I am a full stack developer coding with Node.js, Python, Tensorflow, Javascript, React, Gatsby, MongoDB
-- 💞️ I have been a programmer since early 2020. I am building a team in my startup www.pantar.ai.
+- 💞️ I have been a programmer since early 2020. My start-up: www.pantar.ai.
 - 📫 How to reach me: nico@pantar.ai
 
 <!---
